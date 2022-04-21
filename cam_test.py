@@ -1,5 +1,5 @@
 from picamera import PiCamera
-from tome import sleep
+from time import sleep
 
 camera = PiCamera()
 
